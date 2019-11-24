@@ -1,0 +1,74 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Alata|Calistoga&display=swap');
+body {
+    font-family: 'Alata', sans-serif;
+    background-color: #123259;
+    color: white;
+}
+
+.table {
+    color: white;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Calistoga', cursive;
+    color:#FFD700;
+}
+a.navbar-brand {
+    font-family: 'Calistoga', cursive;
+    color: #123259; 
+}
+
+a.navbar-brand:hover {
+  
+    color: #123259;
+}
+
+nav.navbar{
+    background-color: #FFD700;
+}
+
+div.row{
+    text-align:left;
+    width: 80%;
+    margin:auto;
+}
+div.container {
+  width: 80%;
+    margin: auto;
+}
+
+#aboutSect {
+    width: 80%;
+    margin: auto;
+}
+
+#mainH1{
+    text-align:center;
+}
+
+img{
+    display:block;
+    margin:auto;
+}
+
+.btn.btn-default{
+    color: #FFD700;
+}
+
+a{
+    color: #fdff9c;
+}
+a:hover{
+    text-decoration: none;
+    color: #FFD700;
+}
+.btn.btn-primary{
+    background-color: #FFD700;
+    color: #123259;
+    border: none;
+}
+
+.btn.btn-primary:hover{
+    box-shadow: .25em .25em .25em white;
+}
+
